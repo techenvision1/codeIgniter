@@ -1,0 +1,2 @@
+# codeIgniter
+In today’s time Web development companies prefer Codeigniter Framework for developing websites through PHP. This is one of the most favorite web development technologies with a very long list of frameworks. Codeigniter framework is also a toolkit for people who build websites using PHP, works on MVC (Model View Controller) software architecture which is a great blend of database application (model), User Interface (view) and input/output instructions.
